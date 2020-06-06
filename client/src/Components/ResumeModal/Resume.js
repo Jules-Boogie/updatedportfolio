@@ -6,13 +6,13 @@ function PDFmodal(props) {
 
     const style ={
         height:"800px",
-        width:"1000px"
+        width:"1100px"
         
     }
 
     const pdfStyle={
         height:"700px",
-        width:"750px"
+        width:"780px"
     }
     return (
       <Modal

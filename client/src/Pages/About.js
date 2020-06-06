@@ -79,7 +79,7 @@ function AboutPage() {
                     <p className="aboutParagraph ">
                          I have recently completed a 12-week Coding BootCamp with the University of Berkeley Extension, where I learned HTML, CSS, Javascript, Jquery, MySql, MongoDB, Nodejs, and ExpressJS. Please take a look at my Portfolio page to see the top projects I have worked on. 
                         I am looking forward to starting out my career as software engineer. I am using this time to study complex Javascript, Angular, Vue, and Algorithms. 
-                        I have lived in San Francisco for two years and worked as a Test engineer and
+                        Prior to attending the Coding Bootcamp, I have lived in San Francisco for two years and worked as a Test engineer and
                         IT Engineer. I love living and working in the city. My favorite thing to do is checking out
                         restaurants in North Beach with my friends.
                         </p>
