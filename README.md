@@ -1,6 +1,6 @@
 # Mern Stack Portfolio
 
-### Deployed Link:
+### Deployed Link:https://updateportfolio.herokuapp.com/
 
 
 ## Summary 
