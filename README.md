@@ -5,7 +5,7 @@
 
 ## Summary 
 
-The MERN stack portfolio is similar to the react portfolio here https://jules-boogie.github.io/react-portfolio/#/ except that in addition to a React framewrok, I have incorporated a server side by adding Mongodb, ExpressJS, and Nodejs. 
+The MERN stack portfolio is similar to the react portfolio here https://jules-boogie.github.io/react-portfolio/#/ except that in addition to a React front-end, I have incorporated a server side by adding Mongodb, ExpressJS, and Nodejs. 
 The application has a Home page, About Page, Portfolio and Contact Page. The homepage is made up an intro section and the skills section. The About page gives you an idea of who I am professionally and personally. it also has a button that opens up a modal that shows my resume. The portfolio page shows some of my recent work including projects and small exercises. The Contact page renders a form and links to my social media account. 
 
 
