@@ -147,8 +147,8 @@ const Projects =[
 
 ];
 
-db.Skill.remove({})
-  .then(() => db.Skill.collection.insertMany(topSkills))
+db.Skills.remove({})
+  .then(() => db.Skills.collection.insertMany(topSkills))
   .then(data => {
     console.log(data.result.n + " records inserted!");
     process.exit(0);
@@ -159,8 +159,8 @@ db.Skill.remove({})
   });
 
   
-db.Project.remove({})
-.then(() => db.Skill.collection.insertMany(Projects))
+db.Projects.remove({})
+.then(() => db.Projects.collection.insertMany(Projects))
 .then(data => {
   console.log(data.result.n + " records inserted!");
   process.exit(0);

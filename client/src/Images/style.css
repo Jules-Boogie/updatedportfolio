@@ -1,0 +1,117 @@
+@media screen and (max-width: 476px) {
+    .navPosition {
+        font-size: 75%;
+    }
+}
+
+.profilePic {
+    width: 70%;
+    height: 100%;
+    border-style:solid;
+    border-color:rgb(46, 27, 18);
+    border-width: 15px;
+    border-bottom-width: 60px;
+}
+
+
+.navBorder:hover {
+    background-color: black;
+    color: #A5CFC9;
+    padding: 2%;
+    border-radius: 5px;
+    padding-bottom:7%;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: bolder;
+    font-size: 125%;
+}
+
+.navPosition {
+    padding-bottom: 7%;;
+}
+
+.introDiv {
+    padding-left: 3%;
+    padding-bottom: 5%;
+    text-align: left;
+    font-weight: bold;
+}
+
+
+.name {
+    font-weight: bolder;
+    font-size: 300%;
+    
+}
+
+.profession {
+    font-weight: bolder;
+    font-size: 250%;
+}
+
+
+.skills {
+    font-size: 155%;
+    font-weight: bolder;
+}
+
+.aboutSection {
+    text-align: center;
+    color: black;
+    padding-bottom: 4%;
+    padding-top: 1%;
+}
+
+.aboutParagraph {
+    text-align: left;
+    color:black;
+    font-weight:bolder;
+    font-size: 150%;
+}
+
+.portfolio {
+    color:  black !important;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 5%;
+}
+
+
+button {
+    border-radius: 5px;
+    margin-bottom: 1%;
+    background-color: #A5CFC9;
+    border-color: black;
+    padding-bottom:7px;
+}
+
+button:hover {
+    background-color: black;
+    color: #A5CFC9;
+}
+
+.footer {
+    text-align: center;
+    background-color: coral;
+    color:black;
+    font-size: 100%;
+    padding: 1%;
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.bg-primary {
+    padding-top: 0%;
+    background-image: url("./morocco.jpg") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.bg-secondary {
+    background-color:coral !important;
+}
